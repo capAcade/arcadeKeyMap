@@ -1,0 +1,22 @@
+{
+  "name": "@capacade/arcadekeymap",
+  "version": "1.0.0",
+  "description": "Mapping for keys for the arcade cabinet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capAcade/arcadeKeyMap.git"
+  },
+  "keywords": [
+    "arcade"
+  ],
+  "author": "Sven van Straalen",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/capAcade/arcadeKeyMap/issues"
+  },
+  "homepage": "https://github.com/capAcade/arcadeKeyMap#readme"
+}
