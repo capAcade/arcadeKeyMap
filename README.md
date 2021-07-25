@@ -38,7 +38,7 @@ Default keys that are set:
 ## how to use
 
 Install the module:
-`npm install --save-dev @capacade/arcadekeymap` And in you phaser  code like so:
+`npm install --save @capacade/arcadekeymap` And in you phaser  code like so:
 
 ```javascript
   import getKeys from '@capacade/arcadekeymap';
